@@ -29,6 +29,7 @@ group :test do
   gem 'capybara', '>= 3.26'
   gem 'selenium-webdriver'
   gem 'webdrivers'
+  gem 'rexml', '~> 3.2', '>= 3.2.4'
   gem 'rails-controller-testing', '1.0.5'
   gem 'minitest', '5.14.4'
   gem 'minitest-reporters', '1.3.8'
